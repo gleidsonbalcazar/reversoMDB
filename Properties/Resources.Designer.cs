@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MS_Access__mdb__in_CSharp.Properties {
+namespace reversoMDB.Properties {
     using System;
     
     

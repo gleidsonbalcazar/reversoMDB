@@ -1,4 +1,4 @@
-﻿namespace MS_Access__mdb__in_CSharp
+﻿namespace reversoMDB
 {
     partial class Form1
     {

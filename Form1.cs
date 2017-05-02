@@ -10,7 +10,7 @@ using System.Text.RegularExpressions;
 
 // OleDbConnection, OleDbDataAdapter, OleDbCommandBuilder
 
-namespace MS_Access__mdb__in_CSharp
+namespace reversoMDB
 {
     public partial class Form1 : Form
     {

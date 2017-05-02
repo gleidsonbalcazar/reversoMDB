@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace MS_Access__mdb__in_CSharp
+namespace reversoMDB
 {
     static class Program
     {
